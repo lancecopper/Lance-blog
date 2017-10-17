@@ -1,9 +1,9 @@
-#Flasky_blog
+# Flasky_blog
 
 author: lancecopper
 
 
-##sketch
+## sketch
 
 This is a blog based on codes described in book "Flasky development".
 
@@ -12,7 +12,7 @@ The site was builit with python web framework Flasky.
 The web front-end user template Flask-Bootstrap base5.
 
 
-##tags information
+## tags information
 
 v1.0: prototype of the project in development environment.
 
@@ -21,7 +21,7 @@ v1.1: some codes were added to deploy the site on heroku.
 Now you can visit the blog at [heroku](https://lance-flasky-blog.herokuapp.com.)
 
 
-##Here is other gadgets used in this project.
+## Here is other gadgets used in this project.
 
 1. Flask-Script为Flask程序添加命令行解析器。
 
